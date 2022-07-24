@@ -20,4 +20,4 @@ console.log(Number.MIN_VALUE)
 // Nan Idea 
 
 console.log(1 / 0) // Return Infinity
-console.log(1 / abc) // Return Nan - Not a Number 
+console.log(1 / 'abc') // Return Nan - Not a Number 
