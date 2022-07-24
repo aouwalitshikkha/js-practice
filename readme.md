@@ -24,7 +24,8 @@ Chapter Wise Practice and codes
 2. if.js - details about if condition, skeleton and one primary practice
 3. if-else.js - Details about if Else 
 4. else-if.js - Else if Conditoon details 
-5. switch.js - Switch Statement Details 
+5. switch.js - Switch Statement Details
+6. logical.js - About Logical Operators 
 
 
 
