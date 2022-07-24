@@ -12,3 +12,12 @@ console.log(n)
 console.log(m)
 console.log(Number.parseFloat(b))  // Converting to Float Number
 console.log(Number.parseInt(b)) // Converting to integer number
+
+console.log(Number.MAX_VALUE)
+console.log(Number.MIN_VALUE)
+
+
+// Nan Idea 
+
+console.log(1 / 0) // Return Infinity
+console.log(1 / abc) // Return Nan - Not a Number 
