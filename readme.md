@@ -9,3 +9,7 @@ Chapter Wise Practice and codes
 6. string.js - Details about String 
 7. boolean.js - Details about Boolearn
 8. otherdata.js - null and undefined details 
+9. conversion.js - Different Type conversion , Truly and Falsy Value
+10. octal-hexa.js - Just Showing Octal and Hexa Decimal Number
+11. statement.js - Details about Statement
+
