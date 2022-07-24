@@ -12,4 +12,12 @@ Chapter Wise Practice and codes
 9. conversion.js - Different Type conversion , Truly and Falsy Value
 10. octal-hexa.js - Just Showing Octal and Hexa Decimal Number
 11. statement.js - Details about Statement
+12. Operators.js - Details about Different Operators 
+13. comments.js - About Comments 
+14. math.js - About Math Functions of JS 
+15. date.js -- About Date Function
+
+
+## Chapter -Two 
+
 
