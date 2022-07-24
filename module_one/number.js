@@ -10,5 +10,5 @@ var m = Number('45') // Number Constructor
 // between declaration of integer and float
 console.log(n)
 console.log(m)
-console.log(Number.parseFloat(b))
-console.log(Number.parseInt(b))
+console.log(Number.parseFloat(b))  // Converting to Float Number
+console.log(Number.parseInt(b)) // Converting to integer number
