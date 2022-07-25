@@ -41,7 +41,12 @@ Chapter Wise Practice and codes
 9. infinity-for.js - Infinity loop with for 
 
 ## Module Four :String 
-1. 
+1. string.js -- Details String 
+2. literal-constructor.js -- Conversion and Details 
+3. escape.js - About Escape Character
+4. comparison.js - String Comparison Details 
+5. method.js -- String Methods 
+
 
 
 
