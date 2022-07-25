@@ -46,7 +46,7 @@ Chapter Wise Practice and codes
 3. escape.js - About Escape Character
 4. comparison.js - String Comparison Details 
 5. method.js -- String Methods 
-
+6. lenght.js-- about string lenght
 
 
 

@@ -17,3 +17,5 @@ console.log(c.endsWith('T'))
 console.log(c.toUpperCase())
 
 console.log('     abcd    '.trim())
+
+console.log(c.split(' '))
