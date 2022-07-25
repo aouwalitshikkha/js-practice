@@ -26,6 +26,19 @@ Chapter Wise Practice and codes
 4. else-if.js - Else if Conditoon details 
 5. switch.js - Switch Statement Details
 6. logical.js - About Logical Operators 
+7. ternary.js -- About Ternary Operators 
+8. Short and or Operators - Details of Short hand and or End 
+
+## Module Three 
+1. loop.js -- Types of loop 
+2. for loop -- Use of For Loops 
+3. while.js -- Use of While loop
+4. nested.js -- 
+5. dowhile.js -- details of Do while 
+6. nested.js -- About Nested loop
+7. break.js - about Break Statement
+
+
 
 
 
