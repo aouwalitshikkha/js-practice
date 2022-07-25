@@ -37,6 +37,12 @@ Chapter Wise Practice and codes
 5. dowhile.js -- details of Do while 
 6. nested.js -- About Nested loop
 7. break.js - about Break Statement
+8. continue.js - Continue Statement
+9. infinity-for.js - Infinity loop with for 
+
+## Module Four :String 
+1. 
+
 
 
 
