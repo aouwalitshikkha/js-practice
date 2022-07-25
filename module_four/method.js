@@ -13,3 +13,5 @@ console.log(c.charAt(0))
 
 console.log(c.startsWith('T'))
 console.log(c.endsWith('T'))
+
+console.log(c.toUpperCase())
