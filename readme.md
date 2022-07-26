@@ -33,7 +33,7 @@ Chapter Wise Practice and codes
 1. loop.js -- Types of loop 
 2. for loop -- Use of For Loops 
 3. while.js -- Use of While loop
-4. nested.js -- 
+4. nested.js -- Nested loop 
 5. dowhile.js -- details of Do while 
 6. nested.js -- About Nested loop
 7. break.js - about Break Statement
@@ -42,11 +42,16 @@ Chapter Wise Practice and codes
 
 ## Module Four :String 
 1. string.js -- Details String 
-2. literal-constructor.js -- Conversion and Details 
+2. literal-constructor.js -- Conversion and literal, construction Details 
 3. escape.js - About Escape Character
 4. comparison.js - String Comparison Details 
 5. method.js -- String Methods 
 6. lenght.js-- about string lenght
+
+## Module Five: Array
+1. array.js -- What is array ?
+2. declare.js -- Simple Declaration and other way
+
 
 
 
